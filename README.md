@@ -66,7 +66,7 @@ The following objectives are **optional**:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/n0HAzwJ.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/syang1216/PHP_encryption/blob/master/week5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
